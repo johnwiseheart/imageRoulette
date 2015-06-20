@@ -1,0 +1,6 @@
+{
+  "name": "Image Roulette",
+  "description": "A tool to roulette random images from imgur and puu.sh",
+  "repository": "https://github.com/johnwiseheart/imageRoulette",
+  "keywords": ["static"]
+}
